@@ -41,14 +41,14 @@
     * [CupertinoTabBar]() - iOS风格的底部选项卡。 通常和CupertinoTabScaffold一起使用。
     * [CupertinoPageScaffold]() - 一个iOS风格的页面的基本布局结构。包含内容和导航栏
     * [CupertinoTabScaffold]() - 标签式iOS应用程序的结构。将选项卡栏放在内容选项卡之上
-    * [CupertinoTabScaffold]() - 支持选项卡间并行导航项卡的根内容。通常与CupertinoTabScaffolde一起使用
+    * [CupertinoTabView]() - 支持选项卡间并行导航项卡的根内容。通常与CupertinoTabScaffolde一起使用
 
 
 <br />
 
 * [布局 Widget](https://www.baidu.com) - 排列其它widget的columns、rows、grids和其它的layouts。
 	* [拥有单个子元素的布局widget]() - Container/Padding/Center/Align/FittedBox/AspectRatio/ConstrainedBox/Baseline/FractionallySizedBox/IntrinsicHeight/IntrinsicWidth/LimitedBox/Offstage/OverflowBox/SizedBox/SizedOverflowBox/Transform/CustomSingleChildLayout
-	* [拥有多个子元素的布局widget]() - Row/Column/Stack/IndexedStack/Flow/Table/Wrap/ListBody/ListView/CustomMultiChildLayout
+	* [拥有多个子元素的布局widget]() - Row/Column/Stack/IndexedStack/Flow/Wrap/ListBody/ListView/CustomMultiChildLayout
 	* [Layout helpers]() - LayoutBuilder
 
 

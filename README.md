@@ -2,7 +2,7 @@
 
 ### Widgets目录
 
-* [基础组件](/basic) - 在构建您的第一个Flutter应用程序之前，您绝对需要了解这些widget
+* [基础组件](/basic/) - 在构建您的第一个Flutter应用程序之前，您绝对需要了解这些widget
 	* [Container](/basic/Container.md) - 一个拥有绘制、定位、调整大小的 widget。
 	* [Row](/basic/Row.md) - 在水平方向上排列子widget的列表。
 	* [Column](/basic/Column.md) - 在垂直方向上排列子widget的列表。
@@ -17,7 +17,7 @@
 
 <br />
 
-* [Material Components Widgets](https://www.baidu.com) - 实现了Material Design 指南的视觉、效果、motion-rich的widget。
+* [Material Components Widgets](/material_design/) - 实现了Material Design 指南的视觉、效果、motion-rich的widget。
 	* [App结构和导航]() - Scaffold/Appbar/BottomNavigationBar/TabBar/TabBarView/MaterialApp/WidgetsApp/Drawer
 	* [按钮]() - RaisedButton/FloatingActionButton/FlatButton/IconButton/PopupMenuButton/ButtonBar
 	* [输入框和选择框]() - TextField/Checkbox/Radio/Switch/Slider/Date & Time Pickers
@@ -27,7 +27,7 @@
 	
 <br />
 
-* [Cupertino (iOS风格) Widgets](/Cupertino) - 排列其它widget的columns、rows、grids和其它的layouts。
+* [Cupertino (iOS风格) Widgets](/Cupertino/) - 排列其它widget的columns、rows、grids和其它的layouts。
     * [CupertinoActivityIndicator](/Cupertino/CupertinoActivityIndicator.md) - 一个iOS风格的loading指示器。显示一个圆形的转圈菊花
     * [CupertinoAlertDialog](/Cupertino/a.md) - iOS风格的alert dialog
     * [CupertinoButton](/Cupertino/CupertinoButton.md) - iOS风格的button.
@@ -46,7 +46,7 @@
 
 <br />
 
-* [布局 Widget](https://www.baidu.com) - 排列其它widget的columns、rows、grids和其它的layouts。
+* [布局 Widget](/Layout/) - 排列其它widget的columns、rows、grids和其它的layouts。
 	* [拥有单个子元素的布局widget]() - Container/Padding/Center/Align/FittedBox/AspectRatio/ConstrainedBox/Baseline/FractionallySizedBox/IntrinsicHeight/IntrinsicWidth/LimitedBox/Offstage/OverflowBox/SizedBox/SizedOverflowBox/Transform/CustomSingleChildLayout
 	* [拥有多个子元素的布局widget]() - Row/Column/Stack/IndexedStack/Flow/Wrap/ListBody/ListView/CustomMultiChildLayout
 	* [Layout helpers]() - LayoutBuilder

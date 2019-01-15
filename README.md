@@ -3,7 +3,7 @@
 ### Widgets目录
 
 * [基础组件](https://www.baidu.com) - 在构建您的第一个Flutter应用程序之前，您绝对需要了解这些widget
-	* [Container](/blob/master/basic/Container.md) - 一个拥有绘制、定位、调整大小的 widget。
+	* [Container](/basic/Container.md) - 一个拥有绘制、定位、调整大小的 widget。
 	* [Row]() - 在水平方向上排列子widget的列表。
 	* [Column]() - 在垂直方向上排列子widget的列表。
 	* [Image]() - 一个显示图片的widget

@@ -48,16 +48,16 @@
 
 * [布局 Widget](/Layout/) - 排列其它widget的columns、rows、grids和其它的layouts。
 	* [拥有单个子元素的布局widget]() - Container/Padding/Center/Align/FittedBox/AspectRatio/ConstrainedBox/Baseline/FractionallySizedBox/IntrinsicHeight/IntrinsicWidth/LimitedBox/Offstage/OverflowBox/SizedBox/SizedOverflowBox/Transform/CustomSingleChildLayout
-	* [拥有多个子元素的布局widget]() - Row/Column/Stack/IndexedStack/Flow/Wrap/ListBody/ListView/CustomMultiChildLayout
+	* [拥有多个子元素的布局widget]() - Row/Column/Stack/IndexedStack/Flow/Table/Wrap/ListBody/ListView/CustomMultiChildLayout
 	* [Layout helpers]() - LayoutBuilder
 
 
 <br />
 
-* [文本 Widget](\Text) - 文本显示和样式
-	* [Text](\Text\Text.md) - 单一格式的文本
-	* [RichText](\Text\RichText.md) - 一个富文本Text，可以显示多种样式的text。
-	* [DefaultTextStyle](\Text\DefaultTextStyle.md) - 文字样式，用于指定Text widget的文字样式
+* [文本 Widget](/Text) - 文本显示和样式
+	* [Text](/Text/Text.md) - 单一格式的文本
+	* [RichText](/Text/RichText.md) - 一个富文本Text，可以显示多种样式的text。
+	* [DefaultTextStyle](/Text/DefaultTextStyle.md) - 文字样式，用于指定Text widget的文字样式
 
 <br />
 
